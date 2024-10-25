@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-color: #344A72;
+    justify-content: center;
+    display: flex;
+    padding: 190px;
+}
+form{
+    background-color: #F0F0F0;
+    flex-direction: column;
+    display:flex;
+    width: 450px;
+    text-align: center;
+    padding: 15px;
+    right: 650px;
+    gap: 15px;
+}
+label{
+    text-align: left;
+}
+.sign{
+    margin-top: 15px;
+    background-color: #49C1A2;
+    color: #F0F0F0;
+}
+input{
+   width: 450px;
+   right: 40px;
+}
